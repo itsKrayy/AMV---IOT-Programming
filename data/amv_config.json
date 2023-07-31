@@ -1,0 +1,8 @@
+{
+    "device_id" : "18923",
+    "server_IP" : "192.168.254.104",
+    "server_Port" : "3001" ,
+    "temp_calibration" : 2,
+    "humid_calibration" : 2,
+    "airQual_calibration" : 65 
+}
